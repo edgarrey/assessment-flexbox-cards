@@ -1,0 +1,23 @@
+[33mcommit a61d0386d34ae3533dd4ed28e3782da50a9b112f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Peter Mayor <petermayor@Peters-MacBook-Pro.local>
+Date:   Sun Apr 19 15:20:52 2020 -0400
+
+    reorder css / remove redundant classes
+
+[33mcommit 263f2eab6e531356d3a7fd83999c9bcbdcbd1d84[m
+Author: Peter Mayor <petermayor@Peters-MacBook-Pro.local>
+Date:   Sun Apr 19 15:04:28 2020 -0400
+
+    rename classes / combine selector
+
+[33mcommit 15ab86e633324d9a201ae24ad74f362d3bb9534a[m
+Author: Peter Mayor <petermayor@Peters-MacBook-Pro.local>
+Date:   Sun Apr 19 14:54:18 2020 -0400
+
+    format
+
+[33mcommit 4670b27fc72981db3f5fa9be3f3026d4658e93ea[m
+Author: Eric Schwartz <eric@kenzie.academy>
+Date:   Mon Aug 26 23:33:09 2019 -0400
+
+    initial commit
